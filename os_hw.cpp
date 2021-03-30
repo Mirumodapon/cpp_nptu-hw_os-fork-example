@@ -21,7 +21,6 @@ void prime(unsigned long long start, unsigned long long end) {
 }
 int main() {
 	pid_t pid_1, pid_2, pid_3;
-	int status;
 	unsigned long long number;
 	cin>> number;
 
